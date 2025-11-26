@@ -1,4 +1,4 @@
-# day-18
+# day-20 and 21
 21 days sql challenge 
 SELECT
     service_name,
